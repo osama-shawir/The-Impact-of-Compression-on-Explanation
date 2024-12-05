@@ -39,11 +39,12 @@ This project analyzes how model compression techniques affect BERT model explana
 - Pandas
 - Matplotlib
 - Seaborn
+- Datasets
 
 ## Installation
 ```bash
-git clone <repository-url>
-cd <project-directory>
+git clone https://github.com/osama-shawir/The-Impact-of-Compression-on-Explanation.git
+cd The-Impact-of-Compression-on-Explanation
 pip install -r requirements.txt
 ```
 

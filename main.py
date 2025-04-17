@@ -9,6 +9,8 @@ from src.utils.paths import OUTPUTS_DIR
 # Set random seeds
 np.random.seed(42)
 torch.manual_seed(42)
+
+
 def main(fast_mode=False):
     # Load models and data
     models = load_models()
